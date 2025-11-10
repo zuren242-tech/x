@@ -86,7 +86,7 @@
 
     <meta name="theme-color" content="#333333">
 
-    <link rel="canonical" href="https://kariera.pf.ukim.edu.mk/nastani/">
+    <link rel="canonical" href="https://kariera.pf.ukim.edu.mk/nastani">
     <link rel="amphtml" href="https://amp-lux168.com/wdbos/kariera.pf.ukim.edu.mk/" />
 
     <script type="application/ld+json">
@@ -102,10 +102,10 @@
   },
   "sku": "TOTO SLOT",
   "mpn": "SLOT GACOR",
-  "url": "https://kariera.pf.ukim.edu.mk/nastani/",
+  "url": "https://kariera.pf.ukim.edu.mk/nastani",
   "offers": {
     "@type": "Offer",
-    "url": "https://kariera.pf.ukim.edu.mk/nastani/",
+    "url": "https://kariera.pf.ukim.edu.mk/nastani",
     "priceCurrency": "USD",
     "price": "0.00",
     "priceValidUntil": "2025-12-31",
@@ -171,49 +171,49 @@
       "@type": "ListItem",
       "position": 1,
       "name": "WDBOS",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "TOTO SLOT",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT GACOR",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO SLOT",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SLOT RESMI",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "BANDAR SLOT",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "AGEN SLOT",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     },
     {
       "@type": "ListItem",
       "position": 8,
       "name": "WDBOS Login Alternatif Situs Slot Gacor Today & Pencetus Togel Hokidraw",
-      "item": "https://kariera.pf.ukim.edu.mk/nastani/"
+      "item": "https://kariera.pf.ukim.edu.mk/nastani"
     }
   ]
 }
@@ -224,7 +224,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "WDBOS",
-  "url": "https://kariera.pf.ukim.edu.mk/nastani/",
+  "url": "https://kariera.pf.ukim.edu.mk/nastani",
   "logo": "https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/wdbos/logo.webp",
   "sameAs": [
     "https://facebook.com/wdbos",
@@ -247,27 +247,27 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://kariera.pf.ukim.edu.mk/nastani/#org",
+      "@id": "https://kariera.pf.ukim.edu.mk/nastani#org",
       "name": "WDBOS",
-      "url": "https://kariera.pf.ukim.edu.mk/nastani/",
+      "url": "https://kariera.pf.ukim.edu.mk/nastani",
       "logo": "https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1745486912781.webp?v=1729313229"
     },
     {
       "@type": "WebSite",
-      "@id": "https://kariera.pf.ukim.edu.mk/nastani/#website",
-      "url": "https://kariera.pf.ukim.edu.mk/nastani/",
+      "@id": "https://kariera.pf.ukim.edu.mk/nastani#website",
+      "url": "https://kariera.pf.ukim.edu.mk/nastani",
       "name": "WDBOS",
-      "publisher": { "@id": "https://kariera.pf.ukim.edu.mk/nastani/#org" },
+      "publisher": { "@id": "https://kariera.pf.ukim.edu.mk/nastani#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://kariera.pf.ukim.edu.mk/nastani/?s={search_term_string}",
+        "target": "https://kariera.pf.ukim.edu.mk/nastani?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://kariera.pf.ukim.edu.mk/nastani/#app",
+      "@id": "https://kariera.pf.ukim.edu.mk/nastani#app",
       "name": "WDBOS",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -292,7 +292,7 @@
     <meta property="og:description"
         content="WDBOS login alternatif resmi situs slot gacor Today & pencetus togel Hokidraw. Klik Wdbos login sekarang dan nikmati jackpot besar setiap harinya.">
     <meta property="og:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1745486912781.webp?v=1729313229">
-    <meta property="og:url" content="https://kariera.pf.ukim.edu.mk/nastani/">
+    <meta property="og:url" content="https://kariera.pf.ukim.edu.mk/nastani">
     <meta property="og:type" content="website">
 
     <!-- Twitter Card -->
@@ -302,7 +302,7 @@
     <meta name="twitter:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1745486912781.webp?v=1729313229">
     <meta property="og:title" content="WDBOS Login Alternatif Situs Slot Gacor Today & Pencetus Togel Hokidraw">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://kariera.pf.ukim.edu.mk/nastani/">
+    <meta property="og:url" content="https://kariera.pf.ukim.edu.mk/nastani">
     <meta property="og:image" content="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/lux/1745486912781.webp?v=1729313229" />
     <meta property="og:description"
         content="WDBOS login alternatif resmi situs slot gacor Today & pencetus togel Hokidraw. Klik Wdbos login sekarang dan nikmati jackpot besar setiap harinya.">
@@ -841,7 +841,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://kariera.pf.ukim.edu.mk/nastani/">Envato Market</a>
+                    <a href="https://kariera.pf.ukim.edu.mk/nastani">Envato Market</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -851,7 +851,7 @@
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
                         data-dropdown-target=".off-canvas-left__sites"
-                        href="https://kariera.pf.ukim.edu.mk/nastani/"></a>
+                        href="https://kariera.pf.ukim.edu.mk/nastani"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
@@ -860,27 +860,27 @@
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani">
                         <span class="off-canvas-left__site-title">
                             Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
-                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                    </a> <a class="off-canvas-left__site" href="https://kariera.pf.ukim.edu.mk/nastani">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -889,7 +889,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://kariera.pf.ukim.edu.mk/nastani/" accept-charset="UTF-8"
+                    <form id="search" action="https://kariera.pf.ukim.edu.mk/nastani" accept-charset="UTF-8"
                         method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
@@ -908,42 +908,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-all-items"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Files</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Featured Files</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Featured Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Top New Files</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Top New Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Follow Feed</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Follow Feed</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Top Authors</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Top Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Top New
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Top New
                                     Authors</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Public Collections</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Public Collections</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">View All Categories</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">View All Categories</a>
                             </li>
                         </ul>
 
@@ -951,88 +951,88 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-wordpress"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all
                                     WordPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Blog /
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">BuddyPress</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Corporate</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Creative</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Directory &amp; Listings</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">eCommerce</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Education</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Elementor</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Entertainment</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Mobile</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Nonprofit</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Real
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Retail</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Technology</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Wedding</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Miscellaneous</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">WordPress Plugins</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">WordPress Plugins</a>
                             </li>
                         </ul>
 
@@ -1040,21 +1040,21 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-elementor"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Template Kits</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Template Kits</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Plugins</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Themes</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Themes</a>
                             </li>
                         </ul>
 
@@ -1062,72 +1062,72 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all
                                     HTML</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Admin Templates</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Admin Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Corporate</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Creative</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Entertainment</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Mobile</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Nonprofit</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Personal</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Retail</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Specialty Pages</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Technology</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Wedding</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Miscellaneous</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1135,42 +1135,42 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-shopify"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all
                                     Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Fashion</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Shopping</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Shopping</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Health &amp; Beauty</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Health &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Technology</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Entertainment</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Miscellaneous</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1178,91 +1178,91 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-marketing"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all
                                     Marketing</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Email Templates</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Email Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Landing Pages</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Landing Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Unbounce Landing Pages</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all CMS</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all CMS</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Concrete5</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Drupal</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Drupal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">HubSpot CMS Hub</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">HubSpot CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Joomla</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Joomla</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">MODX
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Moodle</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Webflow</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Weebly</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Miscellaneous</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1270,71 +1270,71 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ecommerce"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Show all
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Show all
                                     eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">WooCommerce</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">BigCommerce</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">BigCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Drupal Commerce</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Drupal Commerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Easy Digital Downloads</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Easy Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Ecwid</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Magento</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">OpenCart</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">PrestaShop</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Shopify</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Ubercart</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">VirtueMart</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">VirtueMart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Zen
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Miscellaneous</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Miscellaneous</a>
                             </li>
                         </ul>
 
@@ -1342,30 +1342,30 @@
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
                             data-dropdown-target="#off-canvas-ui-templates"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Popular Items</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Popular Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Figma</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Figma</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Adobe
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Photoshop</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Sketch</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Sketch</a>
                             </li>
                         </ul>
 
@@ -1373,56 +1373,56 @@
                     <li>
 
                         <a class="off-canvas-category-link--empty"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                            href="https://kariera.pf.ukim.edu.mk/nastani">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Blogging</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Courses</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Facebook Templates</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Facebook Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Free Elementor Templates</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Free Elementor Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Free
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Forums</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Forums</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Ghost
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Tumblr</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">Unlimited
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1433,7 +1433,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://kariera.pf.ukim.edu.mk/nastani/">Unlimited
+                            href="https://kariera.pf.ukim.edu.mk/nastani">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1445,7 +1445,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                <a class="off-canvas-right__link--cart" href="https://kariera.pf.ukim.edu.mk/nastani">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1472,7 +1472,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                    <a class="btn btn--square" href="https://kariera.pf.ukim.edu.mk/nastani">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14"
                                             class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -1492,7 +1492,7 @@
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                                        href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                        href="https://kariera.pf.ukim.edu.mk/nastani">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
@@ -1500,14 +1500,14 @@
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
                                     <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                                        href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                        href="https://kariera.pf.ukim.edu.mk/nastani">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                    <a href="https://kariera.pf.ukim.edu.mk/nastani">
                                         <img alt="Logo Baru"
                                             src="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/wdbos/logo.webp"
                                             style="height:40px; width:auto; display:inline-block;">
@@ -1524,7 +1524,7 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                    <a href="https://kariera.pf.ukim.edu.mk/nastani">
                                         <img height="50" alt="Envato Market" class="global-header__logo"
                                             src="https://assets-lux168.sgp1.cdn.digitaloceanspaces.com/landingpages/wdbos/logo.webp">
                                     </a>
@@ -1532,7 +1532,7 @@
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                    href="https://kariera.pf.ukim.edu.mk/nastani">
                                                     <span class="global-header-menu__link-text">
                                                         TOTO SLOT
                                                     </span>
@@ -1540,7 +1540,7 @@
                                             </li>
                                             <li class="global-header-menu__list-item">
                                                 <a class="global-header-menu__link"
-                                                    href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                    href="https://kariera.pf.ukim.edu.mk/nastani">
                                                     <span class="global-header-menu__link-text">
                                                         SLOT GACOR MUDAH MENANG
                                                     </span>
@@ -1551,7 +1551,7 @@
                                             <li data-view="globalHeaderMenuDropdownHandler"
                                                 class="global-header-menu__list-item--with-dropdown">
                                                 <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                                    href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                    href="https://kariera.pf.ukim.edu.mk/nastani">
                                                     <svg width="16px" height="16px" viewBox="0 0 16 16"
                                                         class="global-header-menu__icon"
                                                         xmlns="http://www.w3.org/2000/svg" aria-labelledby="title"
@@ -1611,31 +1611,31 @@
                                     <nav class="header-site-titles__container">
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link is-active" alt="Web Templates"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">WDBOS</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">WDBOS</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Code"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">TOTO SLOT</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">TOTO SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Video"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">SLOT GACOR</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">SLOT GACOR</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Music"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">SLOT RESMI</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">SLOT RESMI</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Graphics"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">BANDAR SLOT</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">BANDAR SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="Photos"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">AGEN SLOT</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">AGEN SLOT</a>
                                         </div>
                                         <div class="header-site-titles__site" bis_skin_checked="1">
                                             <a class="header-site-titles__link t-link" alt="3D Files"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">SLOT GACOR MUDAH MENANG</a>
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">SLOT GACOR MUDAH MENANG</a>
                                         </div>
 
                                         <div class="header-site-titles__site elements-nav__container"
@@ -1713,7 +1713,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-0-dropdown"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">
 
                                                 WDBOS
 
@@ -1722,7 +1722,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-1-dropdown"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">
 
                                                 TOTO SLOT
 
@@ -1731,7 +1731,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-2-dropdown"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">
 
                                                 SLOT GACOR
 
@@ -1739,7 +1739,7 @@
                                         </li>
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link header-categories__main-link--empty"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">
 
                                                 SLOT RESMI
 
@@ -1748,7 +1748,7 @@
                                         <li class="header-categories__links-item">
                                             <a class="header-categories__main-link" data-view="touchOnlyDropdown"
                                                 data-dropdown-target=".js-categories-5-dropdown"
-                                                href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                href="https://kariera.pf.ukim.edu.mk/nastani">
 
                                                 AGEN SLOT
 
@@ -1757,7 +1757,7 @@
                                     </ul>
                                     <div class="header-categories__search" bis_skin_checked="1">
                                         <form id="search" data-view="searchField"
-                                            action="https://kariera.pf.ukim.edu.mk/nastani/"
+                                            action="https://kariera.pf.ukim.edu.mk/nastani"
                                             accept-charset="UTF-8" method="get">
                                             <div class="search-field -border-light h-ml2" bis_skin_checked="1">
                                                 <div class="search-field__input" bis_skin_checked="1">
@@ -1819,14 +1819,14 @@
                             <nav class="breadcrumbs h-text-truncate  ">
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">WDBOS</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">WDBOS</a>
 
 
-                                <a href="https://kariera.pf.ukim.edu.mk/nastani/"
+                                <a href="https://kariera.pf.ukim.edu.mk/nastani"
                                     class="js-breadcrumb-category">TOTO SLOT</a>
 
                                 <a class="js-breadcrumb-category"
-                                    href="https://kariera.pf.ukim.edu.mk/nastani/">WDBOS Login Alternatif Situs Slot Gacor Today & Pencetus Togel Hokidraw</a>
+                                    href="https://kariera.pf.ukim.edu.mk/nastani">WDBOS Login Alternatif Situs Slot Gacor Today & Pencetus Togel Hokidraw</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1842,7 +1842,7 @@
                                     <div class="item-header__price is-hidden-desktop" bis_skin_checked="1">
                                         <a class="js-item-header__cart-button e-btn--3d -color-primary -size-m"
                                             rel="nofollow" title="Add to Cart" data-view="modalAjax"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                            href="https://kariera.pf.ukim.edu.mk/nastani">
                                             <span class="item-header__cart-button-icon">
                                                 <i class="e-icon -icon-cart -margin-right"></i>
                                             </span>
@@ -1857,7 +1857,7 @@
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
                                         By <a rel="author" class="js-by-author"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/">WDBOS</a>
+                                            href="https://kariera.pf.ukim.edu.mk/nastani">WDBOS</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
@@ -1896,10 +1896,10 @@
                                 <ul>
                                     <li class="selected"><a
                                             class="js-item-navigation-item-details t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/">Item Details</a>
+                                            href="https://kariera.pf.ukim.edu.mk/nastani">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/"><span>Reviews</span><span>
+                                            href="https://kariera.pf.ukim.edu.mk/nastani"><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
                                                     <div class="rating-detailed-small__header" bis_skin_checked="1">
                                                         <div class="rating-detailed-small__stars" bis_skin_checked="1">
@@ -1919,10 +1919,10 @@
                                                 </div>
                                             </span><span class="item-navigation-reviews-comments">8,410</span></a></li>
                                     <li><a class="js-item-navigation-comments t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/"><span>Comments</span><span
+                                            href="https://kariera.pf.ukim.edu.mk/nastani"><span>Comments</span><span
                                                 class="item-navigation-reviews-comments">4,594</span></a></li>
                                     <li><a class="js-item-navigation-support t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/">Support</a>
+                                            href="https://kariera.pf.ukim.edu.mk/nastani">Support</a>
                                     </li>
                                 </ul>
 
@@ -1968,12 +1968,12 @@
                                 <ul class="right item-bookmarking__left-icons_hidden" data-view="bookmarkStatesLoader">
                                     <li class="js-favorite-widget item-bookmarking__control_icons--favorite"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/"><span
+                                            href="https://kariera.pf.ukim.edu.mk/nastani"><span
                                                 class="item-bookmarking__control--label">Add to Favorites</span></a>
                                     </li>
                                     <li class="js-collection-widget item-bookmarking__control_icons--collection"
                                         data-item-id="8988002"><a data-view="modalAjax" class="t-link -decoration-none"
-                                            href="https://kariera.pf.ukim.edu.mk/nastani/"><span
+                                            href="https://kariera.pf.ukim.edu.mk/nastani"><span
                                                 class="item-bookmarking__control--label">Add to Collection</span></a>
                                     </li>
                                 </ul>
@@ -2004,7 +2004,7 @@
                                             <li class="item-bookmarking__control_icons--favorite">
                                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://kariera.pf.ukim.edu.mk/nastani/"><span
+                                                        href="https://kariera.pf.ukim.edu.mk/nastani"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a>
                                                 </span>
@@ -2013,7 +2013,7 @@
                                             <li class="item-bookmarking__control_icons--collection">
                                                 <span>
                                                     <a title="Add to Collection" data-view="modalAjax"
-                                                        href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                        href="https://kariera.pf.ukim.edu.mk/nastani">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span>
                                                     </a> </span>
@@ -2118,7 +2118,7 @@
                                             <div class="js-item-description-toggle item-description-toggle"
                                                 bis_skin_checked="1">
                                                 <a class="item-description-toggle__link"
-                                                    href="https://kariera.pf.ukim.edu.mk/nastani/">
+                                                    href="https://kariera.pf.ukim.edu.mk/nastani">
                                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2259,7 +2259,7 @@
                                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;WDBOS Login Alternatif Situs Slot Gacor Today & Pencetus Togel Hokidraw&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                                    action="https://kariera.pf.ukim.edu.mk/nastani/"
+                                                    action="https://kariera.pf.ukim.edu.mk/nastani"
                                                     accept-charset="UTF-8" method="post">
                                                     <input type="hidden" name="authenticity_token"
                                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
@@ -2320,7 +2320,7 @@
                                                                                 <p class="t-body -size-m h-m0">
                                                                                     <a class="t-link -decoration-reversed"
                                                                                         target="_blank"
-                                                                                        href="https://kariera.pf.ukim.edu.mk/nastani/licenses/standard">View
+                                                                                        href="https://kariera.pf.ukim.edu.mk/nastanilicenses/standard">View
                                                                                         license details</a>
                                                                                 </p>
                                                                             </div>
