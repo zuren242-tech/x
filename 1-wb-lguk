@@ -9,10 +9,8 @@ $dir = '.';
 // Handle DELETE
 if (isset($_GET['delete'])) {
     $f = basename($_GET['delete']);
-    if (is_file($f)) {
-        unlink($f);
-    }
-    header("Location: filemanager.php");
+    if (is_file($f)) unlink($f);
+    header("Location: file_manager.php");
     exit;
 }
 
@@ -31,7 +29,7 @@ if (isset($_GET['download'])) {
 if (isset($_POST['save'])) {
     $file = basename($_POST['filename']);
     file_put_contents($file, $_POST['content']);
-    header("Location: filemanager.php");
+    header("Location: file_manager.php");
     exit;
 }
 
@@ -39,7 +37,7 @@ if (isset($_POST['save'])) {
 if (isset($_FILES['upload'])) {
     $f = basename($_FILES['upload']['name']);
     move_uploaded_file($_FILES['upload']['tmp_name'], $f);
-    header("Location: filemanager.php");
+    header("Location: file_manager.php");
     exit;
 }
 
@@ -53,7 +51,7 @@ if (isset($_GET['edit'])) {
         <input type='hidden' name='filename' value='$file'>
         <textarea name='content' style='width:100%;height:400px;'>$content</textarea><br><br>
         <button type='submit' name='save'>Simpan</button>
-        <a href='filemanager.php'>Batal</a>
+        <a href='file_manager.php'>Batal</a>
     </form>";
     exit;
 }
@@ -67,7 +65,6 @@ if (isset($_GET['edit'])) {
 <body>
 <h2>Simple PHP File Manager</h2>
 
-<!-- Upload Form -->
 <form method="post" enctype="multipart/form-data">
     <input type="file" name="upload" required>
     <button type="submit">Upload</button>
@@ -81,11 +78,11 @@ if (isset($_GET['edit'])) {
         <th>Aksi</th>
     </tr>
 
-    <?php
-    $files = array_diff(scandir($dir), ['.', '..', 'filemanager.php']);
-    foreach ($files as $f):
-        if (is_file($f)):
-    ?>
+<?php
+$files = array_diff(scandir($dir), ['.', '..', 'file_manager.php']);
+foreach ($files as $f):
+    if (is_file($f)):
+?>
     <tr>
         <td><?= htmlspecialchars($f) ?></td>
         <td><?= filesize($f) ?> bytes</td>
@@ -95,7 +92,7 @@ if (isset($_GET['edit'])) {
             <a href="?delete=<?= urlencode($f) ?>" onclick="return confirm('Yakin hapus file?')">Delete</a>
         </td>
     </tr>
-    <?php endif; endforeach; ?>
+<?php endif; endforeach; ?>
 </table>
 
 </body>
